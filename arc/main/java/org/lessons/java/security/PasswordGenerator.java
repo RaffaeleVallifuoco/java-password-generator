@@ -27,8 +27,9 @@ public class PasswordGenerator {
 		System.out.println("-------------------------------------------");
 		int ageSum = ageDay + ageMonth + ageYear ;
 		System.out.println(ageSum);
+		String password = (name + "-" + lastName + "-" + favColor + "-" + ageSum) ;
 		System.out.println("La tua super sicurissima password è :");
-		System.out.println(name + "-" + lastName + "-" + favColor + "-" + ageSum);
+		System.out.println(password);
 		System.out.println("-------------------------------------------");
 		System.out.println("");
 		System.out.println("Copyright ©  RaffoV 2024");

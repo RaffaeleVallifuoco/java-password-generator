@@ -24,3 +24,7 @@ hs_err_pid*
 replay_pid*
 .classpath
 .project
+.DS_Store
+arc/.DS_Store
+arc/main/.DS_Store
+arc/main/java/.DS_Store
