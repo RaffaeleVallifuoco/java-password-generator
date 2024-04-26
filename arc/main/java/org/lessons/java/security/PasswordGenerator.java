@@ -1,5 +1,6 @@
 package org.lessons.java.security;
 import java.util.Scanner;
+import java.util.concurrent.SynchronousQueue;
 
 public class PasswordGenerator {
 
@@ -32,8 +33,7 @@ public class PasswordGenerator {
 		System.out.println(password);
 		System.out.println("-------------------------------------------");
 		System.out.println("");
-		System.out.println("Copyright ©  RaffoV 2024");
-		
+		System.out.println("Copyright ©  RaffoV 2024");;	
 	}
 
 }
